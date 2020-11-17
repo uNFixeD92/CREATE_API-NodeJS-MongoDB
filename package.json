@@ -1,0 +1,14 @@
+{
+  "name": "CREATE_API-NodeJS-MongoDB",
+  "authot": "fmarcosdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

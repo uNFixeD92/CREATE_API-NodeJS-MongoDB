@@ -1,0 +1,193 @@
+<mxfile host="65bd71144e" modified="2020-11-17T17:27:54.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" etag="IyPIgIjBiY3j-8uvbjqv" version="13.6.5">
+    <diagram id="PSpPiNKxiQIGTM1yD0Mv" name="Page-1">
+        <mxGraphModel dx="1657" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="diagrama de flujo con despliegue de componentes :) , creado para aprender backend en js" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-332" y="10" width="677" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="server.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="importar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="110" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="instancar express" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="110" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="la instancia debe escuchar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="110" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="estructurar nuestro proyecto y el atajo nodemon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-810" y="50" width="320" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="programando la logica de un api rest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="50" width="320" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-581.25" y="118.75" width="592.5" height="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="56" target="57" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="56" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="56" target="59" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="src" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-520" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="routes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-330" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="controllers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-330" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="models" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-320" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="server.js" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-520" y="450" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="62" target="73" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-890" y="205" width="330" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="64" target="66" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="npm init -y" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-792" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="66" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="yarn add express mongoose body-parser" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-792" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="package.json" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-772" y="330" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;" parent="1" source="73" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="73" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="proyecto" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-570" y="290" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="mongoose" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-200" y="130" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="mongoDB" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="118.75" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="models" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="import mongoose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="180" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="instanciar SCHEMA de mongoose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="180" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="crear nuevo modelo schema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="200" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="exportar el modelo schema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="200" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 20px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;sch&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="180" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="controller" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 20px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;cfc&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="270" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 20px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;db&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-70" y="165" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="import mongoose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="260" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="import modelos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="260" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="crear metodos&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="242" y="290" width="88" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="routes" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="import express" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="360" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="instanciar Router()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="360" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="llama METODOS de controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="380" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="crear rutas :)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="400" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="exportar constante ROUTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="420" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="server.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="import mongoose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="480" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="import body-parser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="358" y="480" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="llamar el modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="474.5" y="500" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="llamar el controlador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="352" y="500" width="135" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="llamar el routes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="500" width="88" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="contar a mongoose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="520" width="108" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="114" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 20px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f977ae&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #92fc79&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #ff8170&quot;&gt;module&lt;/span&gt;&lt;span style=&quot;color: #92fc79&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-827" y="545" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="115" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 20px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f977ae&quot;&gt;&quot;start&quot;&lt;/span&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #92fc79&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #ff8170&quot;&gt;nodemon&amp;nbsp;server.js&lt;/span&gt;&lt;span style=&quot;color: #92fc79&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-827" y="585" width="237" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="llamar funciones de mongoose por metodo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="345" y="290" width="275" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="exportar??????????" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="242" y="310" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="usar bodyparser.json()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="540" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="usar router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="565" width="69" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
